@@ -1,10 +1,3 @@
-"""
-visualize.py
-------------
-Generates a chart showing actual vs predicted prices, and average
-price by neighborhood, to help evaluate and understand the model.
-"""
-
 import joblib
 import matplotlib.pyplot as plt
 import pandas as pd
